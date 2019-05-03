@@ -15,6 +15,8 @@ class App extends Component {
         </p>
 	<br/>
 	Esta línea la he puesto yo a las 14:54
+        <br/><br/>
+	Archivo App.js modificado el 03-05-2019 a las 12:08
       </div>
     );
   }
