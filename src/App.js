@@ -15,6 +15,8 @@ class App extends Component {
         </p>
         <br/>
           This is a new line I added.
+	<br/>
+	    Esta línea se añadió el 03/05/2019 a las 08:27
       </div>
     );
   }
